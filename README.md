@@ -8,7 +8,7 @@ here is some normal text like in an email or a document
 * this is another list item
 * I forgot this other list item
 * added by alok
-
+* added by alok again (as contributor)
 
 
 
